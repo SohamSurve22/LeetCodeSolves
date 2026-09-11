@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3620-network-recovery-pathways) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
@@ -233,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
