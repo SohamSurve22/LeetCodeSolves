@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
