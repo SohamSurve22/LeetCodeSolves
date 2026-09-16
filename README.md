@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1301-number-of-paths-with-max-score) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
