@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0035-search-insert-position) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1260-shift-2d-grid) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3532-path-existence-queries-in-a-graph-i) |
