@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1301-number-of-paths-with-max-score) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3483-unique-3-digit-even-numbers) |
@@ -132,10 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/0035-search-insert-position) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SohamSurve22/LeetCodeSolves/tree/master/3532-path-existence-queries-in-a-graph-i) |
